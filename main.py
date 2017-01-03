@@ -1,7 +1,8 @@
-main.py
-
-# doin shit
-# main driver program in Pythos
+# single line comment
+# main driver program in Python
 # will call l2vecnorm.c
 
-""" Commenting shit hardcore status """
+""" this is how multiline comments are made in Python
+
+
+and stuff """
